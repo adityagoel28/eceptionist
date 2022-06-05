@@ -1,0 +1,6 @@
+pyttsx3
+pyautogui
+SpeechRecognition
+opencv-python
+Pillow
+pandas
